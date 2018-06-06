@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Portal_Klienta_Katalon</name>
+   <tag></tag>
+   <UUID>6c5925e3-031f-4797-be6d-c2ffc827dc60</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
